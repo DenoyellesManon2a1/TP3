@@ -75,6 +75,7 @@ body
 	-webkit-box-shadow: 5px 3px 3px #0a182e;
 	box-shadow: 5px 3px 3px #0a182e;
 	opacity: 0.8;
+	
 }
 
 #edito h2
@@ -100,6 +101,8 @@ div.element
 	-webkit-box-shadow: 5px 3px 3px #0a182e;
 	box-shadow: 5px 3px 3px #0a182e;
 	opacity: 0.8;
+	
+	
 }
 
 div.element img
@@ -141,3 +144,4 @@ h2,h3
 	background-size: cover ;
 	background-position:center; 
 }
+ p { color: purple; }
